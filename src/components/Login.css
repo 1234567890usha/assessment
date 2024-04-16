@@ -1,0 +1,22 @@
+.forgot{
+    color:#B0B0B0;
+    display: flex;
+    justify-content: flex-end;
+}
+.second-grid-item {
+    margin: 3rem;
+  }
+.grid-wrapper{
+    display: flex;
+}
+.first-grid-wrapper{
+    margin: 5rem;
+}
+.wrap{
+    display: flex;
+}
+.sub-wrap{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
